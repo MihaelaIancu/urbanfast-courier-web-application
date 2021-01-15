@@ -20,7 +20,7 @@ The functionality of the application, incorporated in a Laravel MVC framework, p
 * Laravel (PHP MVC Framework)
 * PHPMyAdmin, XAMPP
 * Maps Javascript API - Google Maps Platform
-* HTML, CSS, JavaScript, AJAX & JQuery
+* JavaScript, AJAX & JQuery
 
 ## About Laravel
 
