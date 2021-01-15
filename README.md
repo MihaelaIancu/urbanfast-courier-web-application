@@ -12,7 +12,15 @@
 This project emphasizes the role of databases in the delivering parcels activity, by implementing an application that uses a relational database for processing
 the information.The implemented solution is a web application called UrbanFast Courier Services,having as main activity the standard postal provision with declared value, through which it performs a transport in a certain time, communicated when picking up the package, between the sender and the receiver.
 
+###### Functionality
 The functionality of the application, incorporated in a Laravel MVC framework, presents two usage flows: user client and administrator. The client mode includes the possibility to create an account, log in and introduce personal information as phone number, email and address. Using the information given, an order is launched to the courier in order to deliver a package to a recipient, giving the user the opportunity of order customization by choosing the delivery route, implemented with the help Google Maps JavaScript API. From the administrator mode, the processed orders are followed and the status of the orders is updated so that the customer follows the evolution of the placed order.
+
+###### Technologies used
+* PHP (Programming Language)
+* Laravel (PHP MVC Framework)
+* PHPMyAdmin, XAMPP
+* Maps Javascript API - Google Maps Platform
+* HTML, CSS, JavaScript, AJAX & JQuery
 
 ## About Laravel
 
